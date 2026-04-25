@@ -27,7 +27,7 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-<a href="[[https://www.linkedin.com/in/abdalrahman-m](https://www.linkedin.com/in/abdalrahman-m-55b138311?utm_source=share_via&utm_content=profile&utm_medium=member_ios)](https://www.linkedin.com/in/abdalrahman-m-55b138311/)"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+<a href="https://www.linkedin.com/in/abdalrahman-m-55b138311/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
 <a href="https://www.facebook.com/abdelrahman.mohamed.731029/"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
 <a href="https://www.instagram.com/abdy_135/"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
 </p>
