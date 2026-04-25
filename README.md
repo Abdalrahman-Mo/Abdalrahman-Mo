@@ -1,61 +1,96 @@
+<!-- 🔥 Animated Header -->
 <h1 align="center">Hi 👋, I'm Abdalrahman</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdalrahman-mo&label=Profile%20views&color=0e75b6&style=flat" alt="abdalrahman-mo" /> </p>
-
-- 🔭 I’m currently working on [Glassdoor Clone](https://glassdoor-two.vercel.app/)
-
-- 🌱 I’m currently learning **JQuery, Node.js, express.js, EJS, RestAPI, SQL, PostgreSQL, Web3, Nest.js**
-
-- 👨‍💻 All of my projects are available at [https://abdalrahman-mo.vercel.app/](https://abdalrahman-mo.vercel.app/)
-
-- 💬 Ask me about **Front-End(HTML5, CSS3, JavaScript, ReactJS, TypeScript, TailwindCSS, Bootstrap)**
-
-- 📫 How to reach me **abdalrahmanm170@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gqyFJyRF-crB1OsCjntnAeVLLEKh5cNf/view?usp=sharing](https://drive.google.com/file/d/1gqyFJyRF-crB1OsCjntnAeVLLEKh5cNf/view?usp=sharing)
-
-- ⚡ Fun fact **I Can Teach Anything**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdalrahman-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdalrahman-m" height="30" width="40" /></a><br/>
-<a href="https://fb.com/https://www.facebook.com/abdelrahman.mohamed.731029/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/abdelrahman.mohamed.731029/" height="30" width="40" /></a><br/>
-<a href="https://instagram.com/https://www.instagram.com/abdy_135/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/abdy_135/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;Future+Full+Stack+Engineer;Building+Real+Projects;Always+Learning&center=true&width=500&height=45">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<h3>🚀 Frontend</h3>
-<p align="left">
-  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://redux.js.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
-  <a href="https://sass-lang.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40"/></a>
+<h3 align="center">🚀 Turning ideas into real-world applications</h3>
+
+---
+
+<!-- 👀 Profile Views -->
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=abdalrahman-mo&label=Profile%20views&color=0e75b6&style=flat" /> 
 </p>
 
-<h3>⚙️ Backend</h3>
-<p align="left">
-  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+---
+
+## 🧠 About Me
+- 🔭 Currently building: **Glassdoor Clone**
+- 🌱 Learning: **Node.js, Express, PostgreSQL, REST APIs**
+- 💡 Goal: Become a **Full-Stack Developer**
+- 📫 Reach me: **abdalrahmanm170@gmail.com**
+- ⚡ Fun fact: *I can teach anything 😏*
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+<a href="https://www.linkedin.com/in/abdalrahman-m"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+<a href="https://www.facebook.com/abdelrahman.mohamed.731029/"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
+<a href="https://www.instagram.com/abdy_135/"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
 </p>
 
-<h3>💻 Programming Languages</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
+---
+
+## 🚀 Tech Stack
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind,sass,ts" />
 </p>
 
-<h3>🛠️ Tools</h3>
-<p align="left">
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.arduino.cc/"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/></a>
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdalrahman-mo&show_icons=true&locale=en&layout=compact" alt="abdalrahman-mo" /></p>
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdalrahman-mo&show_icons=true&locale=en" alt="abdalrahman-mo" /></p>
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+</p>
+
+### 🛠️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,arduino" />
+</p>
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 Glassdoor Clone
+💼 A job platform clone with real-world features  
+🔗 https://glassdoor-two.vercel.app/
+
+### 🔹 Saver App (In Progress)
+💰 Save spare change system for shops  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdalrahman-mo&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdalrahman-mo&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdalrahman-mo&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Current Focus
+- 🔥 Mastering Full-Stack Development
+- ⚡ Building scalable real-world apps
+- 🎯 Preparing for professional opportunities
